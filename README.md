@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Carsondraper
-- 👀 I’m interested in Python, JS, WebFrameworks, Selenium, Powershell, Bash
-- 🌱 I’m currently learning Django WebFramework
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, JS, WebFrameworks, ReactJS, Flask, Jango
+- 🌱 I’m currently learning Advanced React JS
+- 💞️ I’m looking to collaborate on Anything Python / JS
 - 📫 How to reach me carson.i.draper@gmail.com
 
 <!---
