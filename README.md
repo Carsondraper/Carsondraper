@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Carsondraper
-- 👀 I’m interested in Python, JS, WebFrameworks, ReactJS, Flask, Jango
-- 🌱 I’m currently learning Advanced React JS
-- 💞️ I’m looking to collaborate on Anything Python / JS
-- 📫 How to reach me carson.i.draper@gmail.com
+- 👀 I’m interested in all popular languages
+- 🌱 I’m currently learning Vuejs
+- 💞️ I’m looking to collaborate on Anything
+- 📫 How to reach me carson.i.draper@gmail.com or at on my (website)[https://carsondraper.com]
 
 <!---
 Carsondraper/Carsondraper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
